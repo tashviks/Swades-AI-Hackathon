@@ -1,1 +1,1 @@
-export {};
+export { chunks } from "./chunks";
